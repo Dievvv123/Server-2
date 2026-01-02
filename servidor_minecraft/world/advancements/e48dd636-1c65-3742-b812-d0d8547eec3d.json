@@ -1,0 +1,327 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-30 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "slugterra:shanejournaladvancement": {
+    "criteria": {
+      "shanejournaladvancement_0": "2025-12-30 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2025-12-30 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "slugterra:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-12-30 20:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2025-12-30 20:10:43 +0000"
+    },
+    "done": false
+  },
+  "slugterra:the_slugterra_advancement": {
+    "criteria": {
+      "the_slugterra_advancement_0": "2025-12-30 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "slugterra:arachna_biome_advancement": {
+    "criteria": {
+      "arachna_biome_advancement_0": "2025-12-30 20:11:04 +0000"
+    },
+    "done": true
+  },
+  "slugterra:first_blaster_advancement": {
+    "criteria": {
+      "first_blaster_advancement_0": "2025-12-30 20:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-30 20:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-12-30 20:13:02 +0000"
+    },
+    "done": true
+  },
+  "slugterra:igneous_biome_advancement": {
+    "criteria": {
+      "igneous_biome_advancement_0": "2025-12-30 20:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-12-30 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "slugterra:arid_biome_advancement": {
+    "criteria": {
+      "arid_biome_advancement_0": "2025-12-30 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-12-30 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:custom_backpack": {
+    "criteria": {
+      "custom_backpack": "2025-12-30 20:20:07 +0000"
+    },
+    "done": true
+  },
+  "slugterra:lavalynx_advancement": {
+    "criteria": {
+      "lavalynx_advancement_0": "2025-12-30 20:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-12-30 20:20:30 +0000"
+    },
+    "done": true
+  },
+  "slugterra:spectro_biome_advancement": {
+    "criteria": {
+      "spectro_biome_advancement_0": "2025-12-30 20:30:01 +0000"
+    },
+    "done": true
+  },
+  "slugterra:negashade_advancement": {
+    "criteria": {
+      "negashade_advancement_0": "2025-12-30 20:35:19 +0000"
+    },
+    "done": true
+  },
+  "slugterra:cavern_biome_advancement": {
+    "criteria": {
+      "cavern_biome_advancement_0": "2025-12-30 20:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-12-30 20:36:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-30 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "slugterra:grandmaster_biome_advancement": {
+    "criteria": {
+      "grandmaster_biome_advancement_0": "2025-12-30 20:36:46 +0000"
+    },
+    "done": true
+  },
+  "slugterra:snowdance_biome_advancement": {
+    "criteria": {
+      "snowdance_biome_advancement_0": "2025-12-30 20:37:00 +0000"
+    },
+    "done": true
+  },
+  "slugterra:azure_forest_biome_advancement": {
+    "criteria": {
+      "azure_forest_biome_advancement_0": "2025-12-30 20:39:22 +0000"
+    },
+    "done": true
+  },
+  "slugterra:armashelt_advancement": {
+    "criteria": {
+      "armashelt_advancement_0": "2025-12-30 20:45:37 +0000"
+    },
+    "done": true
+  },
+  "slugterra:thresher_advancement": {
+    "criteria": {
+      "thresher_advancement_0": "2025-12-30 20:47:12 +0000"
+    },
+    "done": true
+  },
+  "slugterra:frostcrawler_advancement": {
+    "criteria": {
+      "frostcrawler_advancement_0": "2025-12-30 20:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-12-30 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-12-30 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-12-30 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
